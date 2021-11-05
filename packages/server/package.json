@@ -1,0 +1,15 @@
+{
+  "name": "@realsync/server",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/ws": "^8.2.0",
+    "nodemon": "^2.0.14",
+    "ts-node": "^10.4.0",
+    "typescript": "^4.4.4"
+  },
+  "dependencies": {
+    "ws": "^8.2.3"
+  }
+}
